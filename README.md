@@ -26,7 +26,7 @@ Run "npm test"
 
 - **Frank Barros** - [frankdb](https://github.com/frankdb)
 
-- Michael Roberts - [San Diego Code School](https://github.com/your/project/SanDiegoCodeSchool)
+- Michael Roberts - [San Diego Code School](https://github.com/SanDiegoCodeSchool)
 
 ## License
 
